@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29207c</color>
+    <color name="colorPrimaryDark">#1e1a63</color>
+    <color name="colorAccent">#1e1a63</color>
+    <color name="white">#FFFFFF</color>
+    <color name="moviePageBackground">#0A0B20</color>
+    <color name="bc">#13103F</color>
+    <color name="textColor">#5b5bfc</color>
+    <color name="findButtonColor">#29207c</color>
+    <color name="en">#1f2141</color>
+    <color name="playGameWordColor">#171756</color>
+    <color name="dataText2Color">#9fa8da</color>
+    <color name="smallGameName">#e8eaf6</color>
+
+    <color name="toastBackgroundColor">#1f2141</color>
+    <color name="favouriteLayoutBackgroundColor">#08081e</color>
+    <color name="ratingBarFillColor">#e8eaf6</color>
+    <color name="ratingBarEmptyColor">#0B0A27</color>
+
+
+
+</resources>
